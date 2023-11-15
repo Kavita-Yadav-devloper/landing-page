@@ -1,0 +1,25 @@
+.parent-container{
+    height: 100vh;
+    overflow: hidden;
+}
+
+.parent-container h1{
+    color: #31a499;
+    font-size: 50px;
+    border-bottom: 2px dashed #565f66;
+    width: max-content;
+}
+
+.parent-container p b{
+    color: #2f292b;
+}
+
+.brand-container{
+    border-left: 5px solid #443947;
+    padding-left: 18px;
+}
+
+.parent-container .row{
+    border: 8px solid black;
+    /* transform: rotate(15deg); */
+}
